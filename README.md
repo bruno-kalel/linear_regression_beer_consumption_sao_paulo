@@ -5,6 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/seaborn-%23444876?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/statsmodels-%234051B5?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/scipy-%238CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/matplotlib-%23135F9B?style=for-the-badge)
 
 ## Índice
@@ -24,8 +25,8 @@ O conjunto de dados usado neste projeto contém dados de temperatura e consumo d
 
 ## Resultados
 
-A análise mostra uma relação linear moderada entre temperatura e consumo de cerveja, com um valor de R² de 0,33. Análises adicionais e melhorias podem ser feitas considerando variáveis adicionais e utilizando técnicas de regressão mais sofisticadas.
+A análise mostra uma relação linear moderada entre temperatura e consumo de cerveja, com um valor de R² de 0,33. Para um dia com temperatura de 41ºC, o modelo prevê que mais de 41 mil litros seriam consumidos.
 
 ## Conclusão
 
-Este projeto demonstra a aplicação da análise de regressão linear para entender a relação entre temperatura e consumo de cerveja. Ele fornece insights sobre o comportamento do consumidor e pode ser estendido para explorar outros fatores que influenciam o consumo de cerveja.
+Este projeto demonstra a aplicação da análise de regressão linear para entender a relação entre temperatura e consumo de cerveja. Ele fornece insights sobre o comportamento do consumidor e pode ser estendido para explorar outros fatores que influenciam o consumo de cerveja, considerando variáveis adicionais e utilizando técnicas de regressão mais sofisticadas.
